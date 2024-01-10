@@ -1,5 +1,5 @@
 # hunghapit001.github.io
-<!DOCTYPE html>
+
 <html>
 <head>
     <title>Trang web của tôi</title>
