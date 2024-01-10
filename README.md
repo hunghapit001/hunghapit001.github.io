@@ -2,7 +2,7 @@
 
 <html>
 <head>
-    <title>Trang web của tôi</title>
+    
 </head>
 <body>
     <h1>Xin chào, đây là trang web của tôi!</h1>
